@@ -1,5 +1,6 @@
 /*
  *File: 4-puts.c
+ *Author: Angela Maria Vasquez
  */
 
 #include <stdio.h>
