@@ -28,5 +28,5 @@ else
 {
 printf("%d is zero\n", n);
 }
-return (n);
+return (0);
 }
