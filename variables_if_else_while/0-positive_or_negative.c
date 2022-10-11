@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-/* 
+/*
  * File: 0-positive_or_negative.c 
 */
 
@@ -20,6 +20,5 @@ printf("%d is positive\n", n)
 else {
 printf("%d is negativo\n", n)
 }
-  
 return (0);
 }
