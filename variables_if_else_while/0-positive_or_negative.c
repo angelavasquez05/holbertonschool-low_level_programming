@@ -8,6 +8,7 @@
 /**
  * main - "Program that assigns a random number
  * and prints whether it is positive or negative"
+ * return (n)
 */
 int main(void)
 {
