@@ -8,7 +8,7 @@
 /**
  * main - "Program that assigns a random number
  * and prints whether it is positive or negative"
- * return (n)
+ * Return: (0)
 */
 int main(void)
 {
@@ -20,7 +20,7 @@ if (n > 0)
 {
 printf("%d is positive\n", n);
 }
-else if(n < 0)
+else if (n < 0)
 {
 printf("%d is negative\n", n);
 }
