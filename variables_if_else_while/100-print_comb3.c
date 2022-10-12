@@ -22,6 +22,10 @@ if (i == 9 && j == 9)
 {
 continue;
 }
+if (i == 1 && j == 0)
+{
+continue;
+}
 putchar(',');
 putchar(' ');
 }
