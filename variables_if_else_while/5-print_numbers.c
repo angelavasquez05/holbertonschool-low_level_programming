@@ -14,9 +14,8 @@ int main(void)
 int n;
 while (n < 10)
 {
-putchar(n);
+printf("%d\n", n);
 n++;
 }
-putchar('\n');
 return (0);
 }
