@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /*
  * File: 0-putchar.c
 */
@@ -7,6 +8,7 @@
  *
  * Return: (0)
  */
+
 int main(void)
 {
 	putchar('_');
