@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <unistd.h>
 #include "main.h"
 /*
  * File: 0-putchar.c
@@ -21,6 +19,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }
