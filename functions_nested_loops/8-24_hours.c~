@@ -1,0 +1,25 @@
+#include "main.h"
+/*
+ * File: 7-print_last_digit.c
+*/
+/**
+ * print_last_digit - "Write a function that prints the last
+ * digit of a number"
+ * @n: The character to be checked
+ * Return: (0)
+ */
+int print_last_digit(int n)
+{
+	int last;
+
+	last = n % 10;
+
+	if (last < 0)
+	{
+		last = last * -1;
+	}
+
+	_putchar(last + '0');
+
+	return (last);
+}
